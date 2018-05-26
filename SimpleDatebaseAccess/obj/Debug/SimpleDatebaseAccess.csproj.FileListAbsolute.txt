@@ -1,0 +1,47 @@
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.exe.config
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.exe
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.pdb
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.Properties.Resources.resources
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.csproj.GenerateResource.Cache
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.exe
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.pdb
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.data.dll
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.visualstudio.dll
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.web.dll
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.ChooseForm.resources
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.MainForm.resources
+C:\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.EntityBuilderForm.resources
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.exe.config
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.exe
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.pdb
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.ChooseForm.resources
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.EntityBuilderForm.resources
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.MainForm.resources
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.Properties.Resources.resources
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.csproj.GenerateResource.Cache
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.exe
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.pdb
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.data.dll
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.visualstudio.dll
+C:\Developer\Developer files\Visual Studio\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.web.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.ChooseForm.resources
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.EntityBuilderForm.resources
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.MainForm.resources
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.Properties.Resources.resources
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.csproj.GenerateResource.cache
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.exe
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.pdb
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.exe.config
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.exe
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\SimpleDatebaseAccess.pdb
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.data.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.visualstudio.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\mysql.web.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\bin\Debug\Microsoft.MSXML.dll
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.csproj.CoreCompileInputs.cache
+C:\Icefrog\栈\C#\SimpleDatebaseAccess\SimpleDatebaseAccess\obj\Debug\SimpleDatebaseAccess.csproj.CopyComplete
